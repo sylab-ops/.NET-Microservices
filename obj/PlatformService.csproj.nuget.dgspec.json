@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PlatformService\\PlatformService.csproj": {}
+    "C:\\Users\\ismes\\.NET-Microservices\\PlatformService.csproj": {}
   },
   "projects": {
-    "C:\\PlatformService\\PlatformService.csproj": {
+    "C:\\Users\\ismes\\.NET-Microservices\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "C:\\Users\\ismes\\.NET-Microservices\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "C:\\PlatformService\\PlatformService.csproj",
+        "projectPath": "C:\\Users\\ismes\\.NET-Microservices\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\ismes\\.nuget\\packages\\",
-        "outputPath": "C:\\PlatformService\\obj\\",
+        "outputPath": "C:\\Users\\ismes\\.NET-Microservices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -49,21 +49,21 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[7.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[7.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[7.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.1, )"
+              "version": "[7.0.4, )"
             }
           },
           "imports": [
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
